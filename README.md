@@ -1,7 +1,7 @@
 ### Hi 👋 Raith Fullam here
 
 # 💫 About Me:
-I am a final year Software Engineering student at the University of Canterbury in New Zealand. <br>I am passionate about data manipulation and continuously learning new skills to tackle problems and pursue projects. <br>I enjoy guitar, football, music, and snowboarding.
+I am a final year Software Engineering student at the University of Canterbury in New Zealand. <br>I am passionate about data manipulation and continuously learning new skills to tackle problems and pursue projects. <br>I enjoy guitar, football, music, and snowboarding/skiing.
 
 
 ## 🌐 Connect with me:
