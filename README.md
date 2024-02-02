@@ -23,6 +23,8 @@ Design: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-
 DevOps: ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) 
 
 Testing: ![PLAYWRIGHT](https://img.shields.io/badge/playwright-2E6171.svg?style=for-the-badge&logo=playwright) ![CUCUMBER](https://img.shields.io/badge/cucumber-%2300000f.svg?style=for-the-badge&logo=cucumber) ![JUNIT](https://img.shields.io/badge/junit-%23CB3837.svg?style=for-the-badge&logo=Junit5&logoColor=black)
+
+Collaboration/Communication: ![SLACK](https://img.shields.io/badge/slack-873260.svg?style=for-the-badge&logo=slack&logoColor=6DA55F) ![CONFLUENCE](https://img.shields.io/badge/confluence-%23000000.svg?style=for-the-badge&logo=confluence&logoColor=blue) ![MIRO](https://img.shields.io/badge/miro-yellow.svg?style=for-the-badge&logo=miro&logoColor=%2300000f) ![JIRA](https://img.shields.io/badge/jira-%23000000.svg?style=for-the-badge&logo=jirasoftware&logoColor=blue) 
  
 Other: ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
