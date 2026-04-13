@@ -11,7 +11,7 @@ A cat-themed Pomodoro timer I built for my partner to help her stay focused and 
 **Built with:** React, TypeScript, Supabase, Figma, Framer-motion, Vercel
 
 ### [Chartify](https://chartify-taupe.vercel.app/)
-Visualises how your Spotify listening habits shift over time by genre and mood via Last.FM. Tracks danceability, energy, and other traits across your listening history. Fair warning: it requires a Last.FM account and some sync time in user settings, so it's not the quickest demo, but it's the most technically involved of the projects.
+Visualises how your Spotify listening habits shift over time by genre and mood via Last.FM. Tracks danceability, energy, and other traits across your listening history. It requires a Last.FM account and some sync time to get accurate with your personal data, but there's a demo mode if you just want to poke around.
 
 **Built with:** React, TypeScript, Supabase, Spotify API, Last.FM API, SoundCharts API, Vercel
 
