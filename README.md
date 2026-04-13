@@ -3,6 +3,17 @@
 # 💫 About Me:
 I'm a Full-stack Developer for Kashcade. <br>I am passionate about data manipulation and continuously learning new skills to tackle problems and pursue projects. <br>I enjoy guitar, football, music, and snowboarding/skiing.
 
+## 🚀 Projects (the survivors)
+
+### [Catodoro](https://catodoro.vercel.app/)
+A cat-themed Pomodoro timer I built for my partner to help her stay focused and motivated while studying and working on personal projects. She loves cats, so naturally it had to have falling cat physics when you finish a Pomodoro. Check out the Catbook in the top right to meet the whole crew.
+
+**Built with:** React, TypeScript, Supabase, Figma, Framer-motion, Vercel
+
+### [Chartify](https://chartify-taupe.vercel.app/)
+Visualises how your Spotify listening habits shift over time by genre and mood via Last.FM. Tracks danceability, energy, and other traits across your listening history. Fair warning: it requires a Last.FM account and some sync time in user settings, so it's not the quickest demo, but it's the most technically involved of the projects.
+
+**Built with:** React, TypeScript, Supabase, Spotify API, Last.FM API, SoundCharts API, Vercel
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raith-fullam/) 
