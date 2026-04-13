@@ -1,7 +1,9 @@
 ### Hi 👋 Raith here
 
 # 💫 About Me:
-I'm a Full-stack Developer for Kashcade. <br>I am passionate about data manipulation and continuously learning new skills to tackle problems and pursue projects. <br>I enjoy guitar, football, music, and snowboarding/skiing.
+I'm a Full-stack Developer for Kashcade. 
+<br>
+I enjoy guitar, football, music, and snowboarding/skiing.
 
 ## 🚀 Projects (the survivors)
 
