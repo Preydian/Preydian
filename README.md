@@ -8,7 +8,7 @@ I enjoy guitar, football, music, and snowboarding/skiing.
 ## 🚀 Projects (the survivors)
 
 ### [Catodoro](https://catodoro.vercel.app/)
-A cat-themed Pomodoro timer I built for my partner to help her stay focused and motivated while studying and working on personal projects. She loves cats, so naturally it had to have falling cat physics when you finish a Pomodoro. Check out the Catbook in the top right to meet the whole crew.
+A cat-themed Pomodoro timer I built with my partner to help her stay focused and motivated while studying and working on personal projects. She loves cats, so naturally it had to include her loveable hand drawn cats and awesome UI/UX designs. Also it has falling cat physics!! Check out the Catbook in the top right to meet the whole crew.
 
 **Built with:** React, TypeScript, Supabase, Figma, Framer-motion, Vercel
 
